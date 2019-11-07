@@ -1,0 +1,1 @@
+How to use:1.	In system.hpp defined locations for “MemberFile” and “AccountFile” change to wherever program is stored for persistency. 2.	-1 to quit login menu and save run3.	type numbers and enter for selections 4.	Run main program (can make main.cpp then run ./main in terminal)
